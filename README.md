@@ -1,5 +1,5 @@
 # ncreact
-net core react from netconf
+net core react from netconf Bogor
 
 Pull the source and open the .sln file (for visual studio)
 just open the folder (for vscode)
